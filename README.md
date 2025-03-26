@@ -3,7 +3,7 @@
 A comprehensive Django-based application featuring Google OAuth 2.0 authentication, Google Drive integration, and real-time chat functionality using WebSockets.
 
 ## 🚀 Live Demo
-The application is deployed and can be accessed at: [Google Drive WebSocket Integration](https://enfund-backend-chatroom.onrender.com/)
+The application is deployed and can be accessed at: [Google WebSocket ChetRoom](https://enfund-backend-chatroom.onrender.com/)
 
 
 https://github.com/user-attachments/assets/23cf8e99-a122-4f45-b4e1-4feaef3799ca
